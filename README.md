@@ -33,8 +33,8 @@ Este projeto realiza uma análise abrangente do catálogo da Netflix, utilizando
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu_usuario/seu_projeto.git
-   cd seu_projeto
+   git clone https://github.com/RafaelAlmeida00/VExpenses-Estagio.git
+   cd VExpenses-Estagio
 
 2. **Crie e Ative um Ambiente Virtual (opcional, mas recomendado):**
     ```bash
