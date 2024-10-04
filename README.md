@@ -1,4 +1,4 @@
-# Análise de DDoS do Catálogo da Netflix
+# Análise de dados do Catálogo da Netflix
 
 ![Netflix Logo]([https://upload.wikimedia.org/wikipedia/commons/6/67/Netflix_logo.png](https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg))
 
