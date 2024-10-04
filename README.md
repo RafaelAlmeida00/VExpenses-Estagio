@@ -73,5 +73,5 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para ma
 
 ### Contato
 
-Para mais informações, entre em contato com seu_email@dominio.com.
+Para mais informações, entre em contato com rafaelalmeid00@gmail.com.
 
