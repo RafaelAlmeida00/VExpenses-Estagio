@@ -51,7 +51,9 @@ Este projeto realiza uma análise abrangente do catálogo da Netflix, utilizando
     ```bash
     python main.py
 
+
 ### Relatórios Gerados
+
 
 Os relatórios são salvos nos seguintes diretórios:
 
@@ -61,9 +63,12 @@ Os relatórios são salvos nos seguintes diretórios:
 - data/processed/pdf/: contém os relatórios em formato PDF.
 - data/processed/txt/: contém os relatórios em formato TXT.
 
+
 ### Contribuição
 
+
 Se você deseja contribuir para este projeto, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
 
 ### Licença
 
