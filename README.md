@@ -1,7 +1,5 @@
 # Análise de dados do Catálogo da Netflix
 
-![Netflix Logo]([https://upload.wikimedia.org/wikipedia/commons/6/67/Netflix_logo.png](https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg))
-
 ## Descrição do Projeto
 
 Este projeto realiza uma análise abrangente do catálogo da Netflix, utilizando dados disponíveis publicamente. Ele faz o download de um conjunto de dados e gera relatórios em diferentes formatos (CSV, Excel, PDF e TXT) para facilitar a análise e visualização. O projeto é projetado para ajudar a entender melhor o conteúdo disponível na plataforma, incluindo filmes e séries, suas classificações e diretores.
